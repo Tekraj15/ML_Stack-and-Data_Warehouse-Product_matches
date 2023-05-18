@@ -1,1 +1,1 @@
-# Generating Product matched between ML Stack and Data Warehouse, and Write the matches in AWS S3
+# Generate the Products matched between ML Stack and Data Warehouse, and Writ the matches in AWS S3
